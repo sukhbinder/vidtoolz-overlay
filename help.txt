@@ -1,0 +1,23 @@
+Overlay - Add overlay video on a video using moviepy
+
+type ``vid overlay --help`` to get help
+
+CLI Options:
+Usage:
+  vid overlay [options] input_file
+
+Options:
+  -test: Example argument
+
+
+Examples:
+  1. vid overlay --help`` to get help
+
+
+Examples:
+  1. vid overlay --help to get help
+
+
+Examples:
+  1. vid overlay input.mp4 -o output.mp4
+  2. vid overlay input.mp4 --help
